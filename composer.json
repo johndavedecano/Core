@@ -1,0 +1,16 @@
+{
+    "name": "jdecano/core",
+    "description": "Generate repositories and services for your restAPI",
+    "authors": [
+        {
+            "name": "JOhn Dave Decano",
+            "email": "johndavedecano@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jdecano\\Core": "src/"
+        }
+    },
+}

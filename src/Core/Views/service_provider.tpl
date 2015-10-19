@@ -1,0 +1,1 @@
+$this->app->bind('App\Services\DOMAIN\Contracts\SERVICEInterface', 'App\Services\DOMAIN\SERVICE');
